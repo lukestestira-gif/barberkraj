@@ -1,0 +1,4 @@
+NAPOMENA: Ova aplikacija zahteva Node.js backend i trajno čuvanje data/ i public/uploads/.
+Netlify static-only publish public/ ne podržava server.js API, rezervacije ni admin.
+Za kompletan rad koristi Node VPS/Render/Railway sa trajnim diskom ili Docker.
+Vidi README.md.
